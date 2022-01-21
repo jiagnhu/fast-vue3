@@ -1,6 +1,6 @@
 /*
  * @GitHub: https://github.com/MaleWeb/vvtp
- * @version: 
+ * @version:
  * @Author: 扫地盲僧
  * @Date: 2022-01-19 16:19:27
  * @LastEditors: BlindMonk
@@ -11,9 +11,9 @@ import App from './App.vue'
 import router from './router'
 import piniaStore from './store'
 import './index.css'
-import ArcoVue from '@arco-design/web-vue';
+import ArcoVue from '@arco-design/web-vue'
 
 // 支持SVG
-import 'virtual:svg-icons-register';
+import 'virtual:svg-icons-register'
 
-createApp(App).use(router).use(ArcoVue).use(piniaStore).mount('#app');
+createApp(App).use(router).use(ArcoVue).use(piniaStore).mount('#app')

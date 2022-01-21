@@ -1,6 +1,6 @@
 /*
  * @GitHub: https://github.com/MaleWeb/vvtp
- * @version: 
+ * @version:
  * @Author: 扫地盲僧
  * @Date: 2022-01-17 16:21:01
  * @LastEditors: BlindMonk
@@ -8,4 +8,4 @@
  */
 import { createPinia } from 'pinia'
 const piniaStore = createPinia()
-export default piniaStore;
+export default piniaStore
